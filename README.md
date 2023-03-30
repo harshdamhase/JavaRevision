@@ -12,3 +12,4 @@ Adv of inheritance is code resuability.
 used extend  keyword
 The extends keyword indicates that you are making a new class that derives from an existing class. 
 The meaning of "extends" is to increase the functionality.
+
