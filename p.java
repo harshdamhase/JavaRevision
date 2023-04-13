@@ -13,9 +13,7 @@ class p{
     public static void main(String args[])
     {
         p a1=new p();
-        a1.m1();//you cannot call parent class method in child cls object
+        a1.m1(); //you cannot call parent class method in child cls object
 
-        c a2=new c();
-        a2.m2();
-    }
+     }
 }
