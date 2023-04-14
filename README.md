@@ -13,3 +13,9 @@ used extend  keyword
 The extends keyword indicates that you are making a new class that derives from an existing class. 
 The meaning of "extends" is to increase the functionality.
 
+
+Method Overloading : when there are multiple method with same but diff parameters known as method overloading.
+1)chaging no of arguments
+2)chaging datatype
+
+method overloading is not done by changing return type.
