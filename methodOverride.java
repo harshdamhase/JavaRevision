@@ -15,3 +15,7 @@ public class methodOverride
         System.out.println(ov.add1(2,3));
     }
 }
+//method overriding is done by  method having parent class and child class
+//method overriding is run time polymorphism.
+//method overriding rule is that method having same name
+//2) mo having same parameter
